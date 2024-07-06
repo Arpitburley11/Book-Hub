@@ -1,0 +1,27 @@
+.header{
+    width: 100%;
+    height: 75vh;
+}
+.head-img img{
+    position: relative;
+    opacity: 0.9;
+    filter: brightness(50%);
+    top: -130px;
+}
+
+.head-details{
+    color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+.head-details h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.head-details p{
+    opacity: 0.8;
+    padding: 15px 0;
+}
+
+

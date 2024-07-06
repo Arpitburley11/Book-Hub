@@ -1,0 +1,18 @@
+.bookList {
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+}
+
+.book-cont {
+    width: 80%;
+    height: 90%;
+    background-color: rgb(21, 166, 166);
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 30px;
+}
+
